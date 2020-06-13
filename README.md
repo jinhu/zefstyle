@@ -10,7 +10,7 @@ npm install && npm run build
 Clojurescript build (with fighweel):
 
 ```bash
-lein fighweel
+lein figwheel
 ```
 
 while it's running, open `public/index.html`
